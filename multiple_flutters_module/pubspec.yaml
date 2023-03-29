@@ -1,0 +1,29 @@
+name: multiple_flutters_module
+description: A module that is embedded in the multiple_flutters_ios and multiple_flutters_android sample code.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.4 <3.0.0"
+  flutter: "2.8.1"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flags:
+    path: ./packages/flags
+  data_sync_engines:
+    path: ./packages/data_sync_engines
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  module:
+    androidX: true
+    androidPackage: com.example.multiple_flutters_module
+    iosBundleIdentifier: com.example.multipleFluttersModule

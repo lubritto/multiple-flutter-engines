@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/build" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/.ios/.symlinks/plugins/url_launcher_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/.ios/.symlinks/plugins/url_launcher_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/.ios/.symlinks/plugins/url_launcher_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/.ios/.symlinks/plugins/url_launcher_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/.ios/.symlinks/plugins/url_launcher_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/.ios/.symlinks/plugins/url_launcher_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/packages/data_sync_engines/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/packages/data_sync_engines/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/packages/data_sync_engines/build" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/packages/flags/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/packages/flags/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/multiple_flutters_module/packages/flags/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
